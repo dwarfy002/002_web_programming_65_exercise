@@ -1,7 +1,0 @@
-echo "# krc002_Web_Programming_65" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/dwarfy002/krc002_Web_Programming_65.git
-git push -u origin main
